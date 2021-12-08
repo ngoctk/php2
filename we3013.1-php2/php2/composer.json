@@ -1,0 +1,15 @@
+{
+    "name": "admin/php2",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Php2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ngoctk",
+            "email": "ngoctkph11120@fpt.edu.vn"
+        }
+    ],
+    "require": {}
+}
